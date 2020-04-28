@@ -1,0 +1,8 @@
+C:\Dev\VS2019\7196\Todo\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.deps.json
+C:\Dev\VS2019\7196\Todo\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\Dev\VS2019\7196\Todo\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
+C:\Dev\VS2019\7196\Todo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfoInputs.cache
+C:\Dev\VS2019\7196\Todo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfo.cs
+C:\Dev\VS2019\7196\Todo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\Dev\VS2019\7196\Todo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.pdb
+C:\Dev\VS2019\7196\Todo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.csprojAssemblyReference.cache
